@@ -89,7 +89,7 @@ $(function() {
      * function is called and completes its work, there is at least
      * a single .entry element within the .feed container.
      */
-    it('has at least single entry within the feed container', function() {
+    it('has at least a single entry within the feed container', function() {
       let numberEntries = document.querySelector('div.feed');
       let entries = numberEntries.querySelectorAll('article.entry')
       expect(entries.length).toBeGreaterThan(0);
