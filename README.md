@@ -10,4 +10,4 @@ There you will see the test results executed by Jasmine.
 
 ## Live view
 
-The online version can be seen at https://audister09.github.io/feedreader/
+The online version can be seen at https://rickcosme9.github.io/feedreader/
